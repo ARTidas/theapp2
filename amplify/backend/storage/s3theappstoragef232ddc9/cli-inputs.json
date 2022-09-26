@@ -1,0 +1,11 @@
+{
+  "resourceName": "s3theappstoragef232ddc9",
+  "bucketName": "theapp-storage-f232ddc9",
+  "policyUUID": "329d1e61",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ]
+}
